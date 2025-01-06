@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Welcome to Store Buy! Shop for high-quality products at affordable prices.">
+    <title>Foods Store Buy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="store-header">
+        <h1>Foods Store</h1>
+    </header>
+
+        <section class="product-list">
+            <div class="product-card" data-category="Foods">
+                <img src="image/Burger_steak.png" alt="Product 1">
+                <h2>Burger Steak</h2>
+                <p>Price: ₱100</p>
+                <button onclick="addToCart('Burger Steak', 100)">Buy</button>
+            </div>
+            <div class="product-card" data-category="Foods">
+                <img src="image/chickenjoy.png" alt="Product 2">
+                <h2>Chicken Joy</h2>
+                <p>Price: ₱100</p>
+                <button onclick="addToCart('Chicken Joy', 100)">Buy</button>
+            </div>
+            <div class="product-card" data-category="Foods">
+                <img src="image/spaghetti.png" alt="Product 3">
+                <h2>Spaghetti</h2>
+                <p>Price: ₱150</p>
+                <button onclick="addToCart('Spaghetti', 50)">Buy</button>
+            </div>
+            <div class="product-card" data-category="Foods">
+                <img src="image/Hamburger.png" alt="Product 4">
+                <h2>Hamburger</h2>
+                <p>Price: ₱50</p>
+                <button onclick="addToCart('Hamburger', 50)">Buy</button>
+            </div>
+            <div class="product-card" data-category="Foods">
+                <img src="image/crispyfries.png" alt="Product 5">
+                <h2>Crispy Fries</h2>
+                <p>Price: ₱50</p>
+                <button onclick="addToCart('Crispy Fries', 50)">Buy</button>
+            </div>
+        </section>
+
+        <section class="cart-section">
+            <h2>Order List</h2>
+            <ul id="cartItems">
+            </ul>
+            <p id="totalPrice">Total: ₱0</p>
+        </section>
+    </main>
+    <script src="total.js" defer></script>
+
+    <footer>
+        <p>Foods Store 2025</p>
+    </footer>
+</body>
+</html>
