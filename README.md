@@ -36,11 +36,8 @@ STEP BY STEP
 2. Find the "jollibee.db" (your name Database in your Foodstore)
 3. Click "jollibee.db"
 4. Click Browser Table
-RESULT:
-Here your Database
-![image](https://github.com/user-attachments/assets/35b6d535-abed-4ba8-acd4-8e8e36825ce8)
-
 ```
 ![image](https://github.com/user-attachments/assets/ac96108f-e4bb-42ea-8924-b9533226cff6)
-
+# Here your Database Table (jollibee.db)
+![image](https://github.com/user-attachments/assets/35b6d535-abed-4ba8-acd4-8e8e36825ce8)
 
