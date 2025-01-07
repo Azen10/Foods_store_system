@@ -1,6 +1,14 @@
 # Foods store system Menu ( With HTML - CSS - JS / no database)
 ![image](https://github.com/user-attachments/assets/5be46cb0-a6d4-40a4-9a69-aece7d48574d)
 
+# File Download
+```sh
+Link - https://file.io/GMKgI2b2IsI7
+```
+# Video Tutorial (food store system Javacript)
+```sh
+Link - https://streamable.com/eb7se0
+```
 
 # Foodstore.js(With database SQLITE3)
 ![image](https://github.com/user-attachments/assets/5e4c797d-1bff-4beb-827a-76f4ecb71353)
