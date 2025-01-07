@@ -1,5 +1,5 @@
 # Foods store system Menu ( With HTML - CSS - JS / no database)
-![image](https://github.com/user-attachments/assets/5be46cb0-a6d4-40a4-9a69-aece7d48574d)
+![image](https://github.com/user-attachments/assets/7080b12c-7e7f-4e06-bcd9-a0105eb76d7f)
 
 # File Download
 ```sh
@@ -11,7 +11,7 @@ Link - https://streamable.com/eb7se0
 ```
 
 # Foodstore.js(With database SQLITE3)
-![image](https://github.com/user-attachments/assets/5e4c797d-1bff-4beb-827a-76f4ecb71353)
+![image](https://github.com/user-attachments/assets/f9d495c3-59a5-4df2-92c2-1c250595c47c)
 ```sh
 STEP BY STEP
 1. git clone https://github.com/FoowsIsBack/Foods_store_system.git
@@ -20,7 +20,7 @@ STEP BY STEP
 ```
 
 # Foodstore.js (Download Database SQLITE3)
-![image](https://github.com/user-attachments/assets/e263a5f6-e9a6-4e88-a505-2e0387650795)
+![image](https://github.com/user-attachments/assets/eb4eea54-7855-48eb-8885-ecbeec3ef73f)
 ```sh
 STEP BY STEP
 1. Click this - https://sqlitebrowser.org/blog/version-3-13-1-released/
@@ -29,23 +29,24 @@ STEP BY STEP
 4. Run exe - DB Browser for SQLite
 5. Name Database for foodstore.js (jollibee.db)
 ```
-![image](https://github.com/user-attachments/assets/9caabcef-61b8-4b13-9eac-065cc4705fcc)
+# Database File
+![image](https://github.com/user-attachments/assets/e0fbea12-b7cb-4f84-8a03-e83ea0d4b885)
 
+# Order Details (foodstore javascript)
+![image](https://github.com/user-attachments/assets/5bc27a5a-26a9-4345-8589-d566e4e1b491)
 
-![image](https://github.com/user-attachments/assets/7269ae38-68ac-437f-95ab-95906f638b84)
-
-# Foodstore.js (History Console)
-![image](https://github.com/user-attachments/assets/d0ea70c0-4713-4c9f-93b1-30f5343d2e61)
+# Foodstore.js (Payment History Console)
+![image](https://github.com/user-attachments/assets/e652335d-34ce-4fbc-b661-eb80f10fa3c9)
 
 # Foodstore.js (Opening Database in SQLITE3)
-![image](https://github.com/user-attachments/assets/68a37452-ef84-4daa-b437-2d3099eddf9c)
+![image](https://github.com/user-attachments/assets/c339099e-b3f8-4cbe-b928-45881e666fed)
 ```sh
 1. Click Open Database in left on top
 2. Find the "jollibee.db" (your name Database in your Foodstore)
 3. Click "jollibee.db"
 4. Click Browser Table
 ```
-![image](https://github.com/user-attachments/assets/ac96108f-e4bb-42ea-8924-b9533226cff6)
+![image](https://github.com/user-attachments/assets/a07fe698-ead9-4ce8-8590-0c6dc2fcee95)
 # Here your Database Table (jollibee.db)
-![image](https://github.com/user-attachments/assets/35b6d535-abed-4ba8-acd4-8e8e36825ce8)
+![image](https://github.com/user-attachments/assets/b89e7b64-57f5-4c12-9d60-9b0fc69c763c)
 
